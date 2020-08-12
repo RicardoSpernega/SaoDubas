@@ -21,7 +21,7 @@ namespace SaoDubas.Controllers
         public IActionResult Index()
         {
             var prod = _produtoRepository.ListarProdutos();
-            return View();
+            return View(prod);
         }
 
         public IActionResult About()

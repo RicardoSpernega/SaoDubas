@@ -78,3 +78,4 @@ C:\www\SaoDubasGit\SaoDubas\SaoDubas\obj\Debug\netcoreapp2.1\SaoDubas.Views.pdb
 C:\www\SaoDubasGit\SaoDubas\SaoDubas\obj\Debug\netcoreapp2.1\SaoDubas.csproj.CopyComplete
 C:\www\SaoDubasGit\SaoDubas\SaoDubas\obj\Debug\netcoreapp2.1\SaoDubas.dll
 C:\www\SaoDubasGit\SaoDubas\SaoDubas\obj\Debug\netcoreapp2.1\SaoDubas.pdb
+C:\www\SaoDubasGit\SaoDubas\SaoDubas\bin\Debug\netcoreapp2.1\libman.json
