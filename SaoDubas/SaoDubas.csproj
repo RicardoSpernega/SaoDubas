@@ -10,9 +10,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="D:\www\SaoDubas\SaoDubas\SaoDubas.Application\SaoDubas.Application.csproj" />
-    <ProjectReference Include="D:\www\SaoDubas\SaoDubas\SaoDubas.Domain\SaoDubas.Domain.csproj" />
-    <ProjectReference Include="D:\www\SaoDubas\SaoDubas\SaoDubas.Infrastructure\SaoDubas.Infrastructure.csproj" />
+    <ProjectReference Include="..\SaoDubas.Application\SaoDubas.Application.csproj" />
+    <ProjectReference Include="..\SaoDubas.Domain\SaoDubas.Domain.csproj" />
+    <ProjectReference Include="..\SaoDubas.Infrastructure\SaoDubas.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

@@ -11918,18 +11918,18 @@
     },
     "SaoDubas.Application/1.0.0": {
       "type": "project",
-      "path": "D:\\www\\SaoDubas\\SaoDubas\\SaoDubas.Application\\SaoDubas.Application.csproj",
-      "msbuildProject": "D:\\www\\SaoDubas\\SaoDubas\\SaoDubas.Application\\SaoDubas.Application.csproj"
+      "path": "../SaoDubas.Application/SaoDubas.Application.csproj",
+      "msbuildProject": "../SaoDubas.Application/SaoDubas.Application.csproj"
     },
     "SaoDubas.Domain/1.0.0": {
       "type": "project",
-      "path": "D:\\www\\SaoDubas\\SaoDubas\\SaoDubas.Domain\\SaoDubas.Domain.csproj",
-      "msbuildProject": "D:\\www\\SaoDubas\\SaoDubas\\SaoDubas.Domain\\SaoDubas.Domain.csproj"
+      "path": "../SaoDubas.Domain/SaoDubas.Domain.csproj",
+      "msbuildProject": "../SaoDubas.Domain/SaoDubas.Domain.csproj"
     },
     "SaoDubas.Infrastructure/1.0.0": {
       "type": "project",
-      "path": "D:\\www\\SaoDubas\\SaoDubas\\SaoDubas.Infrastructure\\SaoDubas.Infrastructure.csproj",
-      "msbuildProject": "D:\\www\\SaoDubas\\SaoDubas\\SaoDubas.Infrastructure\\SaoDubas.Infrastructure.csproj"
+      "path": "../SaoDubas.Infrastructure/SaoDubas.Infrastructure.csproj",
+      "msbuildProject": "../SaoDubas.Infrastructure/SaoDubas.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -11968,14 +11968,14 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "D:\\www\\SaoDubas\\SaoDubas\\SaoDubas.Application\\SaoDubas.Application.csproj": {
-              "projectPath": "D:\\www\\SaoDubas\\SaoDubas\\SaoDubas.Application\\SaoDubas.Application.csproj"
+            "C:\\www\\SaoDubasGit\\SaoDubas\\SaoDubas.Application\\SaoDubas.Application.csproj": {
+              "projectPath": "C:\\www\\SaoDubasGit\\SaoDubas\\SaoDubas.Application\\SaoDubas.Application.csproj"
             },
-            "D:\\www\\SaoDubas\\SaoDubas\\SaoDubas.Domain\\SaoDubas.Domain.csproj": {
-              "projectPath": "D:\\www\\SaoDubas\\SaoDubas\\SaoDubas.Domain\\SaoDubas.Domain.csproj"
+            "C:\\www\\SaoDubasGit\\SaoDubas\\SaoDubas.Domain\\SaoDubas.Domain.csproj": {
+              "projectPath": "C:\\www\\SaoDubasGit\\SaoDubas\\SaoDubas.Domain\\SaoDubas.Domain.csproj"
             },
-            "D:\\www\\SaoDubas\\SaoDubas\\SaoDubas.Infrastructure\\SaoDubas.Infrastructure.csproj": {
-              "projectPath": "D:\\www\\SaoDubas\\SaoDubas\\SaoDubas.Infrastructure\\SaoDubas.Infrastructure.csproj"
+            "C:\\www\\SaoDubasGit\\SaoDubas\\SaoDubas.Infrastructure\\SaoDubas.Infrastructure.csproj": {
+              "projectPath": "C:\\www\\SaoDubasGit\\SaoDubas\\SaoDubas.Infrastructure\\SaoDubas.Infrastructure.csproj"
             }
           }
         }
