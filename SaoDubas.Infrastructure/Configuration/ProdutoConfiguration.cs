@@ -29,6 +29,10 @@ namespace SaoDubas.Infrastructure.Configuration
             builder
                 .Property(p => p.Descricao)
                 .HasColumnName("Ds_Descricao");
+
+            builder
+                .Property(p => p.Imagem)
+                .HasColumnName("Vb_Imagem");
         }
     }
 }
