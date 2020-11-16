@@ -1,0 +1,8 @@
+C:\www\SaoDubasGit\SaoDubas\SaoDubas\obj\Debug\netcoreapp3.0\SaoDubas.csprojAssemblyReference.cache
+C:\www\SaoDubasGit\SaoDubas\SaoDubas\obj\Debug\netcoreapp3.0\SaoDubas.MvcApplicationPartsAssemblyInfo.cache
+C:\www\SaoDubasGit\SaoDubas\SaoDubas\obj\Debug\netcoreapp3.0\SaoDubas.AssemblyInfoInputs.cache
+C:\www\SaoDubasGit\SaoDubas\SaoDubas\obj\Debug\netcoreapp3.0\SaoDubas.AssemblyInfo.cs
+C:\www\SaoDubasGit\SaoDubas\SaoDubas\obj\Debug\netcoreapp3.0\SaoDubas.TagHelpers.input.cache
+C:\www\SaoDubasGit\SaoDubas\SaoDubas\obj\Debug\netcoreapp3.0\SaoDubas.TagHelpers.output.cache
+C:\www\SaoDubasGit\SaoDubas\SaoDubas\obj\Debug\netcoreapp3.0\SaoDubas.dll
+C:\www\SaoDubasGit\SaoDubas\SaoDubas\obj\Debug\netcoreapp3.0\SaoDubas.pdb

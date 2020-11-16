@@ -9,8 +9,8 @@ D:\www\SaoDubas\SaoDubas\SaoDubas.Domain\obj\Debug\netstandard2.0\SaoDubas.Domai
 C:\www\SaoDubasGit\SaoDubas\SaoDubas.Domain\bin\Debug\netstandard2.0\SaoDubas.Domain.deps.json
 C:\www\SaoDubasGit\SaoDubas\SaoDubas.Domain\bin\Debug\netstandard2.0\SaoDubas.Domain.dll
 C:\www\SaoDubasGit\SaoDubas\SaoDubas.Domain\bin\Debug\netstandard2.0\SaoDubas.Domain.pdb
-C:\www\SaoDubasGit\SaoDubas\SaoDubas.Domain\obj\Debug\netstandard2.0\SaoDubas.Domain.csprojAssemblyReference.cache
 C:\www\SaoDubasGit\SaoDubas\SaoDubas.Domain\obj\Debug\netstandard2.0\SaoDubas.Domain.AssemblyInfoInputs.cache
 C:\www\SaoDubasGit\SaoDubas\SaoDubas.Domain\obj\Debug\netstandard2.0\SaoDubas.Domain.AssemblyInfo.cs
 C:\www\SaoDubasGit\SaoDubas\SaoDubas.Domain\obj\Debug\netstandard2.0\SaoDubas.Domain.dll
 C:\www\SaoDubasGit\SaoDubas\SaoDubas.Domain\obj\Debug\netstandard2.0\SaoDubas.Domain.pdb
+C:\www\SaoDubasGit\SaoDubas\SaoDubas.Domain\obj\Debug\netstandard2.0\SaoDubas.Domain.csprojAssemblyReference.cache
